@@ -28,3 +28,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# .gitignore
+out/
+*.class
+.idea/
