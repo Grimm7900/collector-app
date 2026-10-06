@@ -5,6 +5,3 @@ public class Main {
     }
 }
 
-//Hello
-//My name is Lucas
-//Hello
